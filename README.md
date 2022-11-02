@@ -4,12 +4,29 @@ Used Nextjs and cosumes the TMDB APi
 
 Deployed on Vercel
 
-Built with
+Technologies used
 
-Next.js
+* Next.js
 
-Typescript
+* Typescript
 
-Tailwind CSS
+* Tailwind CSS
 
-TMDB API
+* TMDB API
+<br/>
+
+
+![demopicture1](/public/ss1.png)
+<br/>
+<br/>
+![demopicture2](/public/ss2.png)
+
+### **Getting Started**
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

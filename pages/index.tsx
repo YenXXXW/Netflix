@@ -26,7 +26,6 @@ const Home= ({netflixOriginals ,
               RomanceMovies,
               TopRated,
               TrendingNow,} : Props) => {
-                console.log(Documentaries)
   return (
     <div className='relative h-screen bg-gradient-to-b lg:h-[140vh]'>
       <Head>
